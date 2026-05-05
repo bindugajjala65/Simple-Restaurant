@@ -39,4 +39,3 @@ Footer with contact information
 
 This project helped me improve my understanding of HTML structure, CSS styling, and website layout design.
   
-🚀 🔗 Live Website: https://lnkd.in/gZtvm45f
